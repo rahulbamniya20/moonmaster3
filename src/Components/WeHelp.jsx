@@ -63,7 +63,7 @@ const WeHelp = () => {
           <ServiceItem 
             Icon={SpaOutlined}
             title="Exclusive Perks & Benefits"
-            description="Unique advantages setting your influencer campaigns apart, ensuring maximum engagement and ROI."
+            description="Unique advantages setting your influencer campaigns apart, ensuring maximum engagement and ROI. Cutting-edge tools to amplify your brand’s presence, drive authentic connections, and achieve unparalleled results."
             gradientColor="rgba(236, 72, 153, 0.2)"
             className="sm:col-span-2"
           />
